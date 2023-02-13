@@ -326,13 +326,13 @@
   "blogArticles": [
     {
       "id": 1,
-      "img": "https://blog.myfitnesspal.com/strategies-to-boost-heart-health/",
+      "img": "https://blog.myfitnesspal.com/wp-content/uploads/2022/02/5-Strategies-to-Boost-Heart-Health-750x592.jpg",
       "title": "5 Strategies to Boost Heart Health",
       "date": "FEBRUARY 3, 2023"
     },
     {
       "id": 2,
-      "img": "https://blog.myfitnesspal.com/these-sugar-swaps-boost-heart-health/",
+      "img": "https://blog.myfitnesspal.com/wp-content/uploads/2023/02/Blog-Hero-750x592.png",
       "title": "These 10 Sugar Swaps Are Sure to Boost Heart Health",
       "date": "FEBRUARY 1, 2023"
     },
@@ -344,7 +344,7 @@
     },
     {
       "id": 4,
-      "img": "https://blog.myfitnesspal.com/8-powerful-goal-setting-tips-from-experts/",
+      "img": "https://blog.myfitnesspal.com/wp-content/uploads/2018/12/8-Powerful-Goal-Setting-Tips-From-Experts-750x592.jpg",
       "title": "8 Powerful Goal-Setting Tips From Experts",
       "date": "JANUARY 27, 2023"
     },
